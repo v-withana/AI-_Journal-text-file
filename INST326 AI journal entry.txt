@@ -1,0 +1,13 @@
+﻿AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+
+Week 01
+This week, I used AI to manage my five courses this semester. I had a problem with completing my tasks on time, especially quizzes and discussions. As a result, I thought AI could help me create a good management system for organizing my tasks. My school assignments usually are quizzes, discussion posts, group project tasks, and other writing tasks. I used ChatGPT and Gemini AI to create some organized task work for classes. 
+I asked ChatGPT, “Hi, I need your help to organize my school work.” Then, ChatGPT asked some questions about my situation, whether I started my classes now, my goals, and whether my classes are semester-long or short-term. After I answered these questions, I got a good visual chart on managing my assignments on OneDrive. ChatGPT divided classes, and each class has assignments, due dates, and class notes. For the due dates, it suggests that I could use Google Calendar and tasks. This step saved my life because I completed my quizzes and discussions for most of them on time this week. This is the link for it - https://chatgpt.com/share/68c69696-52ec-8003-b853-bce20a1d7300
+
+
+I asked the same question to Gemini AI that I asked ChatGPT.It asked some questions like what classes I am taking, what the due dates are, and what my main goal is. After I answered the question, Gemini AI gave me some advice on how to manage the time for each class. Here is the link  for it  - https://g.co/gemini/share/4ab6faa545f6 It gave me really good ideas. However, it has too many to read. I really liked how ChatGPT visualized the idea. 
+I learned that different AI models give different answers because it is how they find and analyze the database. For example, this week we learned about RAG and a vector database system. ChaGPT and Gemini AI would have a different way of RAG searching the vector database and fetching the answers to my question.
