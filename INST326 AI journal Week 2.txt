@@ -1,0 +1,10 @@
+﻿AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+Week 2
+This week, I used AI to clarify some topics in Python. They are boolean and have no branching. For both tasks, I used ChatGPT. Because I had some confusion about Boolean, I asked ChatGPT to explain it to me like a beginner. It simplifies the content to understand Boolean very easily. Even though I didn't ask ChatGPT to explain no branching in Python for a beginner, it gave me a response for a beginner. From this conversation, I learned that the way we ask the question to ChatGPT, like the tone, is the way it generates the answer.
+
+
+https://chatgpt.com/share/68caa95d-0d14-8003-97e0-3b8cf38e0759
