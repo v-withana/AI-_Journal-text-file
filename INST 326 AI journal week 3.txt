@@ -1,3 +1,11 @@
-﻿This week I used Ai for clarifying an important chapter in python, which is “Function.” I mostly struggle with the part of return.When I write, I had concern with when to use return in a function and when I shouldn’t. For this task I chose Claude Ai. When I ask the question, “Tell me when I use return in the function and when I shouldn't?”  from Claude Ai, it generates a long answer that contains good examples. However, I thought that it wasn’t good enough, and I needed a code example. Again, I wrote a query that I needed an example with code, it generated a long program. Even though it was good, the directions and the way it generated the program is not easy for me to understand the returns. After two attempts of asking to generate a small program, I was finally able to get a program which contains both return and non return. From this I understood that we always be precise about what we should ask from Ai. 
+﻿AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+
+Week 03
+
+This week I used Ai for clarifying an important chapter in python, which is “Function.” I mostly struggle with the part of return.When I write, I had concern with when to use return in a function and when I shouldn’t. For this task I chose Claude Ai. When I ask the question, “Tell me when I use return in the function and when I shouldn't?”  from Claude Ai, it generates a long answer that contains good examples. However, I thought that it wasn’t good enough, and I needed a code example. Again, I wrote a query that I needed an example with code, it generated a long program. Even though it was good, the directions and the way it generated the program is not easy for me to understand the returns. After two attempts of asking to generate a small program, I was finally able to get a program which contains both return and non return. From this I understood that we always be precise about what we should ask from Ai. 
 
 Link- https://claude.ai/share/41aa96a5-480c-42c8-a8ef-7a69833b50ca
