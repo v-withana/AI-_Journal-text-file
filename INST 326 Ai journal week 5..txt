@@ -1,0 +1,13 @@
+﻿AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+
+Week 05
+
+
+This week, I had an interesting conversation with ChatGPT about debugging a code assignment for the week 4 exercise. The main reason for debugging with the AI is that I didn’t get the expected results from the test code. First, I copied and pasted my code into ChatGPT and asked, “Hi, I need to debug this code. It looks like there is something wrong with this code; it doesn't give me the average output as the test expected.” After I submitted it, ChatGPT suggested that it may be the cause of the problem with the average. After that, it mentioned some solutions for my code. However, the solutions were either not useful for the task or I had used and tested them many times while writing the code. After I mentioned that I used a solution before, ChatGPT mentioned that it may be a problem with how I round up. I understood it because the test code result showed me an error in rounding. Even though I corrected it, the problem still seemed unresolved. Due to this issue, I decided to report the test code error to ChatGPT. However, it mentioned that the range I mentioned in my code is not the same as the one mentioned in the test code. It mentioned that’s why my code may have a problem. However, I guessed that it couldn’t be the problem. Even though I used AI to debug my code, I didn’t get a satisfactory result from it. 
+
+
+Link - https://chatgpt.com/share/68e3bc34-818c-8003-8365-47e99bad7d5e
