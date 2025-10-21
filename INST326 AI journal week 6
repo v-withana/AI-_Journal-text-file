@@ -1,0 +1,16 @@
+AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+
+Week 06
+
+I used AI for homework 5 last week. In terms of using AI, the chapter was new to me, and I need to clarify things. Because that week's assignments are really helpful for clarifying and learning things, I used AI for debugging my code, asking how to complete the task properly, and asking extra questions about how to make my code align with the instructions in the question being asked.
+For the first question in the week assignment, which is 
+“Exercise 1 — Encapsulated Book identifiers
+Create a Book class with private attributes __isbn (string) and __title (string). Expose read-only access via @property for both. Prevent empty strings at construction time using validation inside __init__. If invalid, either normalize to a sensible default or raise ValueError”
+
+I wrote my code, but I didn’t fully understand what to do with the double underscore. As a result, I asked ChatGPT what the issue is in my code. Then it explained the underscore issue in my code. Further, I discuss how I get rid of the confusion with the single underscore and the double underscore. After that, ChatGPT generated a full description about the use of single underscore and the double underscore under the property and init. I used AI to continuously debug my codes for week 5. I understand that AI can be used as a good debugging tool. 
+
+Here is the link -https://chatgpt.com/share/68f654ad-aca4-800b-9898-61ed2c5e949c
