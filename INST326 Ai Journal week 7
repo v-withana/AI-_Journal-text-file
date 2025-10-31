@@ -1,0 +1,4 @@
+
+
+This week, I used AI for debugging my code in exercise 7. In this code, specifically, I encountered an issue with raising a ValueError. After debugging my code with Claude AI, I realized that the actual issue was with the structure of my code. I didn’t go further to make changes because it sometimes confused me, and I could end up with a code that was not aligned with the instructions . Additionally, I didn’t make any changes to my code, even though I debugged it with AI. Here is the link for the discussion.
+https://claude.ai/share/0d47435a-c341-4ba1-992a-fb77ba467ac3
