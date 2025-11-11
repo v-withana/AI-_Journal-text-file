@@ -1,0 +1,15 @@
+﻿AI using Journal
+Scott Dempwolf
+dempy@umd.edu
+Section 0302
+
+
+Week 09
+This week I used Ai for the debug a code in Week 9 exercise. This week I wanted  to something interesting with debug with Ai. 
+First I wrote the code by my self, then I paste on Gemini Ai, and ask Gemini Ai ans asked about "Why I didn't get the expected
+results?" I asked like this becuase I didn't want direcly ask to debug this like I used to. I wanted to see how AI will
+response to the same problem with different way of asking. Gemini, first generated a solid guide on why it didn't work.
+Then debug it and show how this could improve without beign incorrect. I understood that just telling debug this to Ai is just we 
+get the alomost good output. However, asking what's wrong can get an idea first adn then apply it to correct the code. 
+
+Here is the link - https://gemini.google.com/share/43b9a27f2ab4
